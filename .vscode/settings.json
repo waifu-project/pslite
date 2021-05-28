@@ -1,0 +1,11 @@
+{
+  "go.inferGopath": false,
+  "files.associations": {
+    "*.wxml": "html",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "functional": "cpp",
+    "future": "cpp"
+  }
+}

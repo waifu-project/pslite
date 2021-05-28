@@ -1,0 +1,6 @@
+tmp/
+
+pslite.app/Contents/Macos/
+pslite.app/Contents/Resources/
+
+build/
